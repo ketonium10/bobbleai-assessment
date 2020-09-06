@@ -10,10 +10,11 @@ firebase.initializeApp({
 
 
 const auth = firebase.auth();
+//taking provider for both google and facebook
 const Googleprovider = new firebase.auth.GoogleAuthProvider();
 const Facebookprovider = new firebase.auth.FacebookAuthProvider();
 
-
+//functions to sign in with google and facebook
 const signInWithGoogle = () => {
     auth.signInWithPopup(Googleprovider);
 };

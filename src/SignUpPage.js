@@ -5,7 +5,6 @@ import firebase from "./Utils/firebase"
 import logo from "./Utils/images/logo.jpg";
 class SignUpPage extends Component {
 
-
     constructor(props) {
         super(props);
         this.state = {

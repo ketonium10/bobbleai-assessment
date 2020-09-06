@@ -10,10 +10,10 @@ Along with that offers the user to Register through API call to https://reqres.i
 
 Clone the repository<br />
 After cloning open the terminal type<br />
-npm install <br />
+<b>npm install<b/> <br />
 (This will install all the dependencies used for the project)<br />
 then type<br />
-npm run start<br />
+<b>npm run start<b/><br />
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

@@ -14,8 +14,6 @@ After cloning open the terminal and type npm run start
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-
 ### `Execution of the project`
 
 This project shows a sign up page with the facility of logging in <br />

@@ -4,7 +4,7 @@ It is a Sign-Up page made using React.JS and Firebase. <br/>
 
 It has the features of logging in using Google and Facebook signin.<br/>
 
-Along with that offers the user to Register through API call to https://regres.in
+Along with that offers the user to Register through API call to https://reqres.in
 
 ### `Steps to execute the program`
 

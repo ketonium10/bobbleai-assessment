@@ -1,9 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed for Assessment of Bobble.ai.<br/>
 
-## Available Scripts
+It is a Sign-Up page made using React.JS and Firebase. <br/>
 
-In the project directory, you can run:
+It has the features of logging in using Google and Facebook signin.<br/>
 
+Along with that offers the user to Register through API call to https://regres.in
 
 ### `Steps to execute the program`
 
